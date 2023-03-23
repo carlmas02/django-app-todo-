@@ -1,0 +1,7 @@
+1. Created the main app
+2. Add the app to settings
+3. Create a templates folder
+4. Create a html file 
+5. Add templates directory to the settings  -> os.path.join(BASE_DIR,'templates')
+6. Create Routes and Views
+
